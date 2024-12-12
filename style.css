@@ -3,10 +3,7 @@ body {
 }
 
 .box {
-    background-color: #f0f0f0;
-    padding: 20px;
     margin-bottom: 20px;
-    border-radius: 4px;
 }
 
 .profile-pic {
@@ -61,14 +58,14 @@ body {
     position: relative;
     overflow: hidden;
     border: 1px solid #18181a;
-    color: #18181a;
+    color: #ffffff;
     display: inline-block;
     font-size: 15px;
     line-height: 15px;
     padding: 18px 18px 17px;
     text-decoration: none;
     cursor: pointer;
-    background: #fff;
+    background: #000000;
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
